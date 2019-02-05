@@ -1,0 +1,16 @@
+{
+  "name": "node_paypal_sdk",
+  "version": "1.0.0",
+  "description": "Sample PayPal App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Yury Stanev",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
